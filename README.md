@@ -1,0 +1,1 @@
+loop for downloading (purchasing) images stored in a lightbox from an id list
